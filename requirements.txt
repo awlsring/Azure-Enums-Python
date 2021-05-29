@@ -1,0 +1,4 @@
+msrestazure
+azure-mgmt-subscription
+azure-mgmt-compute
+azure-identity
